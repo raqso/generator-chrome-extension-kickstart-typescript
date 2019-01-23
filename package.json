@@ -1,6 +1,6 @@
 {
   "name": "generator-chrome-extension-kickstart-typescript-preact",
-  "version": "4.4.0",
+  "version": "4.4.1",
   "description": "Yeoman generator for google chrome using TypeScript and Preact. Froked from generator-chrome-extension-kickstart-typescript.",
   "license": "MIT",
   "main": "app/index.js",
