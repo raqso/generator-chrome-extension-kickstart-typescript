@@ -1,14 +1,14 @@
 {
-  "name": "generator-chrome-extension-kickstart-typescript",
+  "name": "generator-chrome-extension-kickstart-typescript-preact",
   "version": "4.4.0",
-  "description": "Yeoman generator for google chrome using TypeScript. Froked from generator-chrome-extension-kickstart.",
+  "description": "Yeoman generator for google chrome using TypeScript and Preact. Froked from generator-chrome-extension-kickstart-typescript.",
   "license": "MIT",
   "main": "app/index.js",
-  "repository": "mazamachi/generator-chrome-extension-kickstart-typescript",
+  "repository": "raqso/generator-chrome-extension-kickstart-typescript",
   "author": {
-    "name": "mazamachi",
-    "email": "jmsf0203@gmail.com",
-    "url": "https://github.com/mazamachi"
+    "name": "raqso",
+    "email": "raqsasg@gmail.com",
+    "url": "https://github.com/raqso"
   },
   "engines": {
     "node": ">=7"

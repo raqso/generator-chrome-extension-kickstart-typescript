@@ -50,6 +50,8 @@
     "gulp-tag-version": "1.x.x",
     "gulp-util": "3.x.x",
     "gulp-zip": "^4.x.x",
+    "preact": "^8.4.2",
+    "preact-compat": "^3.18.4",
     "require-dir": "0.x.x",
     "standard": "^10.0.2",
     "ts-loader": "^2.x.x",
